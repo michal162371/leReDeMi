@@ -21,4 +21,7 @@ for dirpath, dirnames, filenames in os.walk('.\sing'):
 mod_time = os.stat('./sing/lo levad.mp3').st_mtime
 print(datetime.fromtimestamp(mod_time))
 
+<<<<<<< HEAD
 #homework at python from techer Malki Zilberberg 
+=======
+>>>>>>> 79462c694cf1d79c982ffff41df708cd9d31e1b3
